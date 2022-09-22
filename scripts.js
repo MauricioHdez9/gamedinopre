@@ -4,6 +4,10 @@ document.addEventListener("click",function () {
     player.classList.add("playerJump");
 })  
 
+
+/*  probando diff*/
+
+
 //---- boton de pausa ---------------------------------------------------------------------------------------- 
 function stopanimation()
 {
