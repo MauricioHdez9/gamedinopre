@@ -1,0 +1,26 @@
+/*hasta aqui se agrego el error y el commmit*/
+body{
+    margin:0px;
+}
+#board{
+    background-color: blue;
+    width: 100%;
+    height: 600px;
+    position: relative;
+
+}
+/**/
+
+#player{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    bottom: 190px;
+    left: 100px;
+    
+}
+
+#player img{   
+    width: 100%;
+    height: 100%;
+}
