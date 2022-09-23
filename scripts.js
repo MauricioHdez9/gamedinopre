@@ -3,7 +3,7 @@ const player = document.getElementById("player");
 document.addEventListener("click",function () {
     player.classList.add("playerJump");
 })  
-
+/* probando el comien en rama */
 //---- boton de pausa ---------------------------------------------------------------------------------------- 
 function stopanimation()
 {
